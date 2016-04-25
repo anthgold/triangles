@@ -1,6 +1,6 @@
-public class Rectangle {
+public class Triangle {
 
-  private int mLength;
+/*  private int mLength;
   private int mWidth;
 
    public Rectangle(int length, int width) {
@@ -19,4 +19,5 @@ public class Rectangle {
    public boolean isSquare() {
      return mLength == mWidth;
    }
+   */
 }
